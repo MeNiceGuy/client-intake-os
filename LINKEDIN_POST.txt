@@ -1,0 +1,17 @@
+I built and packaged a Client Intake OS focused on structuring discovery, qualification, and next-step recommendations in a cleaner way.
+
+The goal was to create something stronger than vague intake notes, generic discovery forms, or loose qualification thinking.
+
+This workflow is designed to support:
+- client discovery
+- pain-point capture
+- fit assessment
+- service alignment
+- next-step recommendation
+- follow-up preparation
+
+I documented it as a GitHub project to show how I think about consulting systems, workflow design, and better decision support.
+
+GitHub: [PASTE LINK]
+
+#Consulting #Operations #Workflow #GitHub #BusinessAnalysis
